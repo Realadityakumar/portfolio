@@ -8,6 +8,7 @@ import {
   ShieldCheck,
   Zap,
   Users,
+  Database,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import type { Project } from "~/types/data";
@@ -18,6 +19,8 @@ const highlightIcons: Record<string, LucideIcon> = {
   ShieldCheck,
   Zap,
   Users,
+  Database,
+  Package,
 };
 
 interface ProjectCardProps {
