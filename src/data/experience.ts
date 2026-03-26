@@ -48,6 +48,6 @@ export const experience: Experience[] = [
       "Completed secondary education with solid academic performance",
       "Developed early interest in computers and programming",
     ],
-    techUsed: ["Percentage: 74"],
+    techUsed: ["Percentage: 77"],
   },
 ];
